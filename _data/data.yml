@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+#    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -33,13 +33,15 @@ career-profile:
       Experienced Software Engineer with over 6 years of successful experience
       in development and operations. Recognized for resolving problems, envisioning
       creative solutions, and driving operational improvements.
-education:
+
+\education:
     - degree: BS in Engineering Technology
       university: University of Memphis
       time: 2007-2012
       details: |
         GPA: 3.83
         Graduated Summa Cum Laude
+
 experiences:
     - role: Software Engineer
       time: November 2018 - Present
@@ -66,13 +68,13 @@ experiences:
           - Customized and deployed localized copies of the application for international partners, migrating data from the previous site
           - Implemented template designs to create custom WordPress installations
           - TECHNICAL ENVIRONMENT: Linux, Apache, PostgreSQL, Ruby on Rails
-      role: Contractor - Web Developer
+    - role: Contractor - Web Developer
       time: May 2012 - September 2012
       company: Share One Inc., Memphis, TN
       details: |
           - Developed enhancements for a Ruby on Rails based Internet Banking application for credit unions
           - TECHNICAL ENVIRONMENT: Linux, Ruby on Rails
-      role: Student Chair
+    - role: Student Chair
       time: January 2010 - May 2012
       company: University of Memphis Student Branch of IEEE, Memphis, TN
       details: |
@@ -81,6 +83,7 @@ experiences:
           - Budgeted and secured funding for travel to yearly SoutheastCon Student Hardware Competition (approx $10k annually)
           - Assisted in creation and implementation of an electronics parts store for students
           - Documented organization operations to serve as a knowledge base for future Student Chairs
+
 projects:
     title: Community Involvement
     assignments:
@@ -104,23 +107,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 50%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Bash
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: PHP
+        level: 40%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Ruby
+        level: 37%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: MySQL
+        level: 50%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Linux
+        level: 870%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
