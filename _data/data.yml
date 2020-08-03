@@ -71,20 +71,20 @@ experiences:
           - Implemented template designs to create custom WordPress installations
           - TECHNICAL ENVIRONMENT: Linux, Apache, PostgreSQL, Ruby on Rails
       role: Contractor - Web Developer
-        time: May 2012 - September 2012
-        company: Share One Inc., Memphis, TN
-        details: |
-            - Developed enhancements for a Ruby on Rails based Internet Banking application for credit unions
-            - TECHNICAL ENVIRONMENT: Linux, Ruby on Rails
+      time: May 2012 - September 2012
+      company: Share One Inc., Memphis, TN
+      details: |
+          - Developed enhancements for a Ruby on Rails based Internet Banking application for credit unions
+          - TECHNICAL ENVIRONMENT: Linux, Ruby on Rails
       role: Student Chair
-        time: January 2010 - May 2012
-        company: University of Memphis Student Branch of IEEE, Memphis, TN
-        details: |
-            - Managed diverse students in all levels of a project team
-            - Coordinated events, tours, instructional seminars, and guest speakers
-            - Budgeted and secured funding for travel to yearly SoutheastCon Student Hardware Competition (approx $10k annually)
-            - Assisted in creation and implementation of an electronics parts store for students
-            - Documented organization operations to serve as a knowledge base for future Student Chairs
+      time: January 2010 - May 2012
+      company: University of Memphis Student Branch of IEEE, Memphis, TN
+      details: |
+          - Managed diverse students in all levels of a project team
+          - Coordinated events, tours, instructional seminars, and guest speakers
+          - Budgeted and secured funding for travel to yearly SoutheastCon Student Hardware Competition (approx $10k annually)
+          - Assisted in creation and implementation of an electronics parts store for students
+          - Documented organization operations to serve as a knowledge base for future Student Chairs
 projects:
     title: Community Involvement
     assignments:
