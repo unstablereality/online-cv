@@ -7,162 +7,102 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Daniel Soskel
+    tagline: Software Engineer
+    avatar: daniel-soskel.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    email: daniel.soskel@gmail.com
+    phone: (901 485-7469)
     linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    github: instagram
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Gaming
         link:
 
-      - item: Snowboarding
+      - item: Homebrewing
         link:
 
-      - item: Cooking
+      - item: Pets
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced Software Engineer with over 6 years of successful experience
+      in development and operations. Recognized for resolving problems, envisioning
+      creative solutions, and driving operational improvements.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BS in Engineering Technology
+      university: University of Memphis
+      time: 2007-2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        GPA: 3.83
+        Graduated Summa Cum Laude
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer
+      time: November 2018 - Present
+      company: SmartBear / CrossBrowserTesting, Memphis, TN
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Provided mobile devices for customers to use for live testing of websites in multiple configurations of browser/os/hardware
+          - Developed and maintained automated tooling related to device maintenance and lifecycle actions
+          - Rewrote all iOS clean scripts to improve system reliability, result in increased availability for customers and more maintainable code
+          - Authored documentation for both internal team use and to hand off tasks to other teams
+          - TECHNICAL ENVIRONMENT: MacOS, Linux, MySQL, iOS, Ansible, Docker, Python, Golang
+    - role: Application Development Specialist
+      time: February 2015 - November 2018
+      company: International Paper, Memphis, TN
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Developed enhancements and internal tooling in support of 130+ corrugated box plants
+          - Worked with contractors to migrate all plants from distributed servers to a centralized virtual environment
+          - Maintained a C# .NET application which assisted users in connecting to the 130+ plant servers and their associated applications and web-based tools
+          - TECHNICAL ENVIRONMENT: Windows 10, MySQL, MS SQL, Red Hat Enterprise, Windows Server, Bash, PHP, PERL
+    - role: Web Developer
+      time: November 2013 - February 2015
+      company: Higher Visibility, Memphis, TN
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Developed enhancements for a Ruby on Rails web application designed to connect franchisees and franchisors through lead generation
+          - Customized and deployed localized copies of the application for international partners, migrating data from the previous site
+          - Implemented template designs to create custom WordPress installations
+          - TECHNICAL ENVIRONMENT: Linux, Apache, PostgreSQL, Ruby on Rails
+      role: Contractor - Web Developer
+        time: May 2012 - September 2012
+        company: Share One Inc., Memphis, TN
+        details: |
+            - Developed enhancements for a Ruby on Rails based Internet Banking application for credit unions
+            - TECHNICAL ENVIRONMENT: Linux, Ruby on Rails
+      role: Student Chair
+        time: January 2010 - May 2012
+        company: University of Memphis Student Branch of IEEE, Memphis, TN
+        details: |
+            - Managed diverse students in all levels of a project team
+            - Coordinated events, tours, instructional seminars, and guest speakers
+            - Budgeted and secured funding for travel to yearly SoutheastCon Student Hardware Competition (approx $10k annually)
+            - Assisted in creation and implementation of an electronics parts store for students
+            - Documented organization operations to serve as a knowledge base for future Student Chairs
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Community Involvement
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Memtech (Memphis Technology Community)
+        link: "http://memphistechnology.org"
+        url: "http://memphistechnology.org"
+        details: |
+            - Organizer and host of weekly in-person and virtual lunch meetups
+            - Organizer, host, and fundraiser for annual Holiday Party
+            - Moderator of community Slack team
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: GiveCamp Memphis
+        link: "http://givecampmemphis.org"
+        url: "http://givecampmemphis.org"
+        details: |
+            - Volunteer event providing development solutions to nonprofit charities
+            - Developed web applications for multiple charities in Memphis
+            - Worked as an organizer to assist with charity selection, event planning, and technical administration
 
 skills:
     title: Skills &amp; Proficiency
