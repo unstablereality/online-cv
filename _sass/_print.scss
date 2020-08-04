@@ -15,12 +15,35 @@
        float: right;
         color: black !important;
         -webkit-print-color-adjust: exact; 
+        position: initial;
+        margin-top: 0;
    }
     .sidebar-wrapper {
-        position: static;
-        float: right;
-        width: 40%;
         -webkit-print-color-adjust: exact; 
+        display: flex;
+        min-height: 0px;
+        align-items: center;
+        flex-wrap: wrap;
+
+        div {
+           width: 50vw;
+        }
+
+        a:after {
+           content: ''
+        }
+    }
+
+    .profile-container {
+       flex-basis: 100%;
+    }
+
+    .interests-container {
+       display: none;
+    }
+
+    .fa-inverse:before {
+       color: #fff !important;
     }
 
     .remove-container.container-block {
@@ -34,6 +57,15 @@
     .skillset .level-bar-inner {
        background-color: black !important;
        -webkit-print-color-adjust: exact; 
+    }
+
+    .main-wrapper .item .upper-row {
+      display: flex;
+      justify-content: space-between;
+
+      .job-title {
+         font-size: 20px;
+      }
     }
 
 }
