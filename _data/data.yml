@@ -39,8 +39,7 @@ education:
       university: University of Memphis
       time: 2007-2012
       details: |
-        GPA: 3.83
-        Graduated Summa Cum Laude
+        3.83 GPA | Summa Cum Laude
 
 experiences:
     - role: Software Engineer
@@ -89,7 +88,7 @@ projects:
     assignments:
       - title: Memtech (Memphis Technology Community)
         link: "http://memphistechnology.org"
-        url: "http://memphistechnology.org"
+        tagline: "http://memphistechnology.org"
         details: |
             - Organizer and host of weekly in-person and virtual lunch meetups
             - Organizer, host, and fundraiser for annual Holiday Party
@@ -97,7 +96,7 @@ projects:
 
       - title: GiveCamp Memphis
         link: "http://givecampmemphis.org"
-        url: "http://givecampmemphis.org"
+        tagline: "http://givecampmemphis.org"
         details: |
             - Volunteer event providing development solutions to nonprofit charities
             - Developed web applications for multiple charities in Memphis
@@ -123,7 +122,7 @@ skills:
         level: 50%
 
       - name: Linux
-        level: 870%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
