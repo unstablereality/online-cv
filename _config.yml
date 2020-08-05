@@ -2,8 +2,8 @@
 
 # Site Settings
 title: Daniel Soskel
-url: 'http://unstablereality.github.io'
-baseurl: '/resume' #change it according to your repository name
+url: 'http://danielsoskel.dev'
+baseurl: '/' #change it according to your repository name
 description: Experienced Software Engineer with over 6 years of successful experience in development and operations. Recognized for resolving problems, envisioning creative solutions, and driving operational improvements.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
