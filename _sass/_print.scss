@@ -10,6 +10,7 @@
     img.avatar {
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
+        display: none;
     }
    .main-wrapper .time {
        float: right;
@@ -18,6 +19,13 @@
         position: initial;
         margin-top: 0;
    }
+   .main-wrapper .summary-section {
+     margin-bottom: 30px;
+   }
+
+  .education-container.container-block {
+    padding-bottom: 0px;
+  }
     .sidebar-wrapper {
         -webkit-print-color-adjust: exact; 
         display: flex;
@@ -66,6 +74,14 @@
       .job-title {
          font-size: 20px;
       }
+    }
+
+    .item.highervis {
+      page-break-before: always;
+    }
+
+    .section.projects-section {
+      padding-bottom: 0px;
     }
 
 }

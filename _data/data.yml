@@ -43,6 +43,7 @@ education:
 
 experiences:
     - role: Software Engineer
+      class: cbt
       time: November 2018 - Present
       company: SmartBear / CrossBrowserTesting, Memphis, TN
       details: |
@@ -52,6 +53,7 @@ experiences:
           - Authored documentation for both internal team use and to hand off tasks to other teams
           - TECHNICAL ENVIRONMENT: MacOS, Linux, MySQL, iOS, Ansible, Docker, Python, Golang
     - role: Application Development Specialist
+      class: ip
       time: February 2015 - November 2018
       company: International Paper, Memphis, TN
       details: |
@@ -60,6 +62,7 @@ experiences:
           - Maintained a C# .NET application which assisted users in connecting to the 130+ plant servers and their associated applications and web-based tools
           - TECHNICAL ENVIRONMENT: Windows 10, MySQL, MS SQL, Red Hat Enterprise, Windows Server, Bash, PHP, PERL
     - role: Web Developer
+      class: highervis
       time: November 2013 - February 2015
       company: Higher Visibility, Memphis, TN
       details: |
@@ -68,12 +71,14 @@ experiences:
           - Implemented template designs to create custom WordPress installations
           - TECHNICAL ENVIRONMENT: Linux, Apache, PostgreSQL, Ruby on Rails
     - role: Contractor - Web Developer
+      clsas: shareone
       time: May 2012 - September 2012
       company: Share One Inc., Memphis, TN
       details: |
           - Developed enhancements for a Ruby on Rails based Internet Banking application for credit unions
           - TECHNICAL ENVIRONMENT: Linux, Ruby on Rails
     - role: Student Chair
+      class: ieee
       time: January 2010 - May 2012
       company: University of Memphis Student Branch of IEEE, Memphis, TN
       details: |
