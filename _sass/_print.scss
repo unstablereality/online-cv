@@ -6,8 +6,6 @@
         font-size: 12pt;
     }
     img.avatar {
-        filter: grayscale(1);
-        -webkit-filter: greyscale(1);
         display: none;
     }
     .main-wrapper .time {
@@ -26,7 +24,7 @@
     .sidebar-wrapper {
         -webkit-print-color-adjust: exact;
         display: flex;
-        min-height: 0px;
+        min-height: 0;
         align-items: center | flex-start;
         flex-wrap: wrap;
         div {
