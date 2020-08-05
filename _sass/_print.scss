@@ -21,6 +21,9 @@
     .education-container.container-block {
         padding-bottom: 0;
     }
+    .education-container .container-block-title {
+        text-transform:capitalize;
+    }
     .sidebar-wrapper {
         -webkit-print-color-adjust: exact;
         display: flex;
