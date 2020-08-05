@@ -1,87 +1,71 @@
-@media print
-   {
+@media print {
     @page {
         size: A4;
     }
     body {
-       font-size: 12pt;
+        font-size: 12pt;
     }
-
     img.avatar {
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
         display: none;
     }
-   .main-wrapper .time {
-       float: right;
+    .main-wrapper .time {
+        float: right;
         color: black !important;
-        -webkit-print-color-adjust: exact; 
+        -webkit-print-color-adjust: exact;
         position: initial;
         margin-top: 0;
-   }
-   .main-wrapper .summary-section {
-     margin-bottom: 30px;
-   }
-
-  .education-container.container-block {
-    padding-bottom: 0px;
-  }
+    }
+    .main-wrapper .summary-section {
+        margin-bottom: 30px;
+    }
+    .education-container.container-block {
+        padding-bottom: 0;
+    }
     .sidebar-wrapper {
-        -webkit-print-color-adjust: exact; 
+        -webkit-print-color-adjust: exact;
         display: flex;
         min-height: 0px;
-        align-items: center;
+        align-items: center | flex-start;
         flex-wrap: wrap;
-
         div {
-           width: 50vw;
+            width: 50vw;
         }
-
         a:after {
-           content: ''
+            content: ''
         }
     }
-
     .profile-container {
-       flex-basis: 100%;
+        flex-basis: 100%;
     }
-
     .interests-container {
-       display: none;
+        display: none;
     }
-
     .fa-inverse:before {
-       color: #fff !important;
+        color: #fff !important;
     }
-
     .remove-container.container-block {
-       display: none;
+        display: none;
     }
-
     footer {
-       display: none;
+        display: none;
     }
-
     .skillset .level-bar-inner {
-       background-color: black !important;
-       -webkit-print-color-adjust: exact; 
+        background-color: black !important;
+        -webkit-print-color-adjust: exact;
     }
-
     .main-wrapper .item .upper-row {
-      display: flex;
-      justify-content: space-between;
-
-      .job-title {
-         font-size: 20px;
-      }
+        display: flex;
+        justify-content: space-between;
+        .job-title {
+            font-size: 20px;
+        }
     }
-
     .item.highervis {
-      page-break-before: always;
+        page-break-before: always;
     }
-
     .section.projects-section {
-      padding-bottom: 0px;
+        page-break-before: always;
     }
-
 }
