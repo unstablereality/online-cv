@@ -59,7 +59,7 @@ experiences:
       details: |
           - Developed enhancements and internal tooling in support of 130+ corrugated box plants
           - Worked with contractors to migrate all plants from distributed servers to a centralized virtual environment
-          - Maintained a C# .NET application which assisted users in connecting to the 130+ plant servers and their associated applications and web-based tools
+          - Maintained a C# .NET application which assisted users in connecting to the 130+ plant servers and the associated applications and web-based tools
           - TECHNICAL ENVIRONMENT: Windows 10, MySQL, MS SQL, Red Hat Enterprise, Windows Server, Bash, PHP, PERL
     - role: Web Developer
       class: highervis
