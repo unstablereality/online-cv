@@ -49,7 +49,7 @@ experiences:
       details: |
           - Provided mobile devices for customers to use for live testing of websites in multiple configurations of browser/os/hardware
           - Developed and maintained automated tooling related to device maintenance and lifecycle actions
-          - Rewrote all iOS clean scripts to improve system reliability, resulting in increased availability for customers and more maintainable code
+          - Rewrote all iOS device lifecycle scripts to improve system reliability, resulting in increased availability for customers and more maintainable code
           - Authored documentation for both internal team use and to hand off tasks to other teams
           - TECHNICAL ENVIRONMENT: MacOS, Linux, MySQL, iOS, Ansible, Docker, Python, Golang
     - role: Application Development Specialist
