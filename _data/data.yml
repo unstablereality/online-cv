@@ -103,7 +103,8 @@ projects:
         link: "http://givecampmemphis.org"
         tagline: "http://givecampmemphis.org"
         details: |
-            - Volunteer event providing development solutions to nonprofit charities
+            - Participated 2015 - Current
+            - Annual Volunteer event providing development solutions to nonprofit charities
             - Developed web applications for multiple charities in Memphis
             - Worked as an organizer to assist with charity selection, event planning, and technical administration
 
@@ -112,7 +113,7 @@ skills:
 
     toolset:
       - name: PHP
-        level: 40
+        level: 40%
 
       - name: Python
         level: 50%
