@@ -30,9 +30,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Software Engineer with over 6 years of successful experience
-      in development and operations. Recognized for resolving problems, envisioning
-      creative solutions, and driving operational improvements.
+      Mid-level software engineer with 6 years of experience in process automation and improvement. Recognized for
+      exceeding goals by automating and standardizing existing tooling. At SmartBear, used Ansible and Python best
+      practices to exceed the Q4 release goal by 40%.
 
 education:
     - degree: BS in Engineering Technology
@@ -47,9 +47,10 @@ experiences:
       time: November 2018 - Present
       company: SmartBear / CrossBrowserTesting, Memphis, TN
       details: |
-          - Provided mobile devices for customers to use for live testing of websites in multiple configurations of browser/os/hardware
-          - Developed and maintained automated tooling related to device maintenance and lifecycle actions
+          - Developed automated tooling for remote management of physical iOS devices
           - Rewrote all iOS device lifecycle scripts to improve system reliability, resulting in increased availability for customers and more maintainable code
+          - Learned Ansible to create a suite of playbooks to for standardizing new hardware installations
+          - Authored documentation for both internal team reference and to hand tasks off to other teams
           - Authored documentation for both internal team use and to hand off tasks to other teams
           - TECHNICAL ENVIRONMENT: MacOS, Linux, MySQL, iOS, Ansible, Docker, Python, Golang
     - role: Application Development Specialist
@@ -58,7 +59,7 @@ experiences:
       company: International Paper, Memphis, TN
       details: |
           - Developed enhancements and internal tooling in support of 130+ corrugated box plants
-          - Worked with contractors to migrate all plants from distributed servers to a centralized virtual environment
+          - Worked with contractors to migrate all plants from distributed servers to a centralized, virtual environment
           - Maintained a C# .NET application which assisted users in connecting to the 130+ plant servers and the associated applications and web-based tools
           - TECHNICAL ENVIRONMENT: Windows 10, MySQL, MS SQL, Red Hat Enterprise, Windows Server, Bash, PHP, PERL
     - role: Web Developer
@@ -66,16 +67,15 @@ experiences:
       time: November 2013 - February 2015
       company: Higher Visibility, Memphis, TN
       details: |
-          - Developed enhancements for a Ruby on Rails web application designed to connect franchisees and franchisors through lead generation
-          - Customized and deployed localized copies of the application for international partners, migrating data from the previous site
-          - Implemented template designs to create custom WordPress installations
+          - Customized and deployed localized & translated forks of a Ruby on Rails lead generation app for international partners
+          - Migrated data for each partner from the old ColdFusion/MS SQL app ensuring maximum data retention
           - TECHNICAL ENVIRONMENT: Linux, Apache, PostgreSQL, Ruby on Rails
     - role: Contractor - Web Developer
       clsas: shareone
       time: May 2012 - September 2012
       company: Share One Inc., Memphis, TN
       details: |
-          - Developed enhancements for a Ruby on Rails based Internet Banking application for credit unions
+          - Developed enhancements for a Ruby on Rails based Internet Banking application
           - TECHNICAL ENVIRONMENT: Linux, Ruby on Rails
     - role: Student Chair
       class: ieee
