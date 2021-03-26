@@ -48,9 +48,9 @@ experiences:
       company: SmartBear / CrossBrowserTesting, Memphis, TN
       details: |
           - Developed automated tooling for remote management of physical iOS devices
-          - Rewrote all iOS device lifecycle scripts to improve system reliability, resulting in increased availability for customers and more maintainable code
-          - Learned Ansible to create a suite of playbooks to for standardizing new hardware installations
-          - Authored documentation for both internal team reference and to hand tasks off to other teams
+          - Rewrote all iOS device lifecycle scripts (Python) to improve system reliability and maintainability, resulting in exceeding 2019 Q4 device release goals by 40%
+          - Created Ansible playbooks for standardizing new installations of macOS systems
+          - Deployed Cisco switches in VLAN configurations to isolate Airplay multicast DNS traffic
           - Authored documentation for both internal team use and to hand off tasks to other teams
           - TECHNICAL ENVIRONMENT: MacOS, Linux, MySQL, iOS, Ansible, Docker, Python, Golang
     - role: Application Development Specialist
@@ -58,10 +58,10 @@ experiences:
       time: February 2015 - November 2018
       company: International Paper, Memphis, TN
       details: |
-          - Developed enhancements and internal tooling in support of 130+ corrugated box plants
+          - Developed internal PHP and Bash tooling to automate configuration of testing servers with live data copies
           - Worked with contractors to migrate all plants from distributed servers to a centralized, virtual environment
-          - Maintained a C# .NET application which assisted users in connecting to the 130+ plant servers and the associated applications and web-based tools
-          - TECHNICAL ENVIRONMENT: Windows 10, MySQL, MS SQL, Red Hat Enterprise, Windows Server, Bash, PHP, PERL
+          - Adapted a C# .NET application to interface with a terminal emulator for connecting to production servers
+          - TECHNICAL ENVIRONMENT: Bash, PHP, MySQL, C# .NET, MS SQL
     - role: Web Developer
       class: highervis
       time: November 2013 - February 2015
